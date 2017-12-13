@@ -1,0 +1,4 @@
+References
+
+https://stackoverflow.com/questions/38709690/scikit-learn-using-gridsearchcv-on-decisiontreeclassifier
+- used this website for ideas on parameters for max_depth
